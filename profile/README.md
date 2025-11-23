@@ -1,12 +1,21 @@
-## Hi there 👋
+# MCBlacklist
 
-<!--
+**MCBlacklist** is a unified ban system designed to help Minecraft communities maintain safer, more trustworthy environments.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📚 Projects in This Organization
+
+This GitHub organization contains the open-source components, documentation, and integrations for the MCBlacklist system.
+
+You’ll find:
+* API documentation & example integrations
+* Libraries and tools for developers
+* Public services and utilities related to the MCBlacklist system
+
+---
+
+## 🔗 Useful Links
+
+* **Website:** [https://mcblacklist.com](https://mcblacklist.com)
+* **Status Page:** [https://status.mcblacklist.com](https://status.mcblacklist.com)
